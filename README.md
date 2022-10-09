@@ -1,4 +1,4 @@
-# Hello There, I'm Diego POUPIOT <img src="https://i.imgur.com/G8iZw96.gif" width="25px"><a/>
+# Hi there, I'm Diego POUPIOT <img src="https://i.imgur.com/G8iZw96.gif" width="25px"><a/>
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diegopoupiot.pro@gmail.com)
 
 ## I'm a Student Developer
