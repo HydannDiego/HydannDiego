@@ -6,6 +6,7 @@
 - 🌱 love to learn new things
 - ⚡ love creating awesome stuff
 - 📫 My website : (https://diego.dyjix.fr)
+- 🗞️ My current personal project : (https://drallen.super.site)
 
 <br /> 
 
