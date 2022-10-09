@@ -5,7 +5,7 @@
 - 🌌 curious about everything
 - 🌱 love to learn new things
 - ⚡ love creating awesome stuff
-- 📫 My website : (www.diegopoupiot.live/)
+- 📫 My website : (www.diegopoupiot.live)
 - 🗞️ My personal project : (https://drallen.super.site)
 
 <br /> 
